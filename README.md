@@ -1,6 +1,6 @@
 # 🚗 Uber Trip Data Analysis
 
-Uber Trip Data Analysis is a project aimed at analyzing Uber trip data for the month of April 2014. It involves extracting insights from the data set regarding the frequency of trips based on various factors such as date, time, and location.
+Uber Trip Data Analysis is a project aimed at analyzing Uber trip data. It involves extracting insights from the data set regarding the frequency of trips based on various factors such as date, time, and location.
 
 ## 📊 Analysis Overview
 
